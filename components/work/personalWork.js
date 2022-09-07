@@ -133,9 +133,9 @@ export default class PersonalWork extends React.Component {
           <Link href="/personalWorks/hotpepperBeauty">
             <Card>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/personalWork_hotpepperBeauty2.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
 
               <p className="title">Hotpepper Beauty Redesign</p>

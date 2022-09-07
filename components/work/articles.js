@@ -265,9 +265,9 @@ export default class Articles extends React.Component {
                 <Card key={i}>
                   <a href={data.linkURL} target="_blank">
                     <ThumbnailWrapper>
-                      <LazyLoad>
+                      
                         <Thumbnail src={"/static/image/article/" + data.imageURL} />
-                      </LazyLoad>
+                      
                     </ThumbnailWrapper>
                     <p className="title">{data.title}</p>
                     <span className="type">{data.type}</span>
@@ -286,9 +286,9 @@ export default class Articles extends React.Component {
                   <Card key={i}>
                     <a href={data.linkURL} target="_blank">
                       <ThumbnailWrapper>
-                        <LazyLoad>
+                        
                           <Thumbnail src={"/static/image/article/" + data.imageURL} alt=""/>
-                        </LazyLoad>
+                        
                       </ThumbnailWrapper>
                       <p className="title">{data.title}</p>
                       <span className="type">{data.type}</span>
@@ -304,9 +304,9 @@ export default class Articles extends React.Component {
                   <Card key={i}>
                     <a href={data.linkURL} target="_blank">
                       <ThumbnailWrapper>
-                        <LazyLoad>
+                        
                           <Thumbnail src={"/static/image/article/" + data.imageURL} alt=""/>
-                        </LazyLoad>
+                        
                       </ThumbnailWrapper>
                       <p className="title">{data.title}</p>
                       <span className="type">{data.type}</span>

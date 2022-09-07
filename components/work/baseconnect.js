@@ -126,8 +126,8 @@ export default class Baseconnecct extends React.Component {
       <Section grey border>
         <Heading>
           <h2>Baseconnect Inc.</h2>
-          <h4>2017/10 - 2019/現在</h4>
-          <p className="section__desc">2017年10月より、フルコミットのUI/UXデザイナーインターンとして活動中。法人営業を支援する企業情報データベース「<a href="https://sales.baseconnect.in/" target="_blank">Baseconnect LIST </a>」の開発を主に担当。
+          <h4>2017/10 - 2020/03</h4>
+          <p className="section__desc">UI/UXデザイナーとして、法人営業を支援する企業情報データベース「<a href="https://sales.baseconnect.in/" target="_blank">Baseconnect LIST </a>」の開発を主に担当。
             また、同サービスの根幹となる会社情報を提供する「<a href="https://baseconnect.in/" target="_blank">Baseconnect</a>」のユーザー側および管理画面の機能改善、デザイン未経験者を対象とした「DesignBootcamp」の運営も行う。</p>
         </Heading>
         <CardList>

@@ -134,9 +134,9 @@ export default class Baseconnecct extends React.Component {
           <Link href="/baseconnect/baseconnectLp">
               <Card>
                 <ThumbnailWrapper>
-                  <LazyLoad>
+                  
                     <Thumbnail src="/static/image/work/baseconnect-lp.jpg"/>
-                  </LazyLoad>
+                  
                 </ThumbnailWrapper>
                 <p className="title">Baseconnect LIST LP</p>
                 <span className="type">UIデザイン、コーディング</span>
@@ -146,9 +146,9 @@ export default class Baseconnecct extends React.Component {
           <Link href="/baseconnect/baseconnectList">
               <Card>
                   <ThumbnailWrapper>
-                    <LazyLoad>
+                    
                       <Thumbnail src="/static/image/work/baseconnect-list.jpg"/>
-                    </LazyLoad>
+                    
                   </ThumbnailWrapper>
 
                 <p className="title">Baseconnect LIST</p>
@@ -160,9 +160,9 @@ export default class Baseconnecct extends React.Component {
 
               <Card>
                   <ThumbnailWrapper>
-                    <LazyLoad>
+                    
                       <Thumbnail src="/static/image/work/baseconnect-bootcamp.png"/>
-                      </LazyLoad>
+                      
                   </ThumbnailWrapper>
                 <p className="title">DesignBootcamp</p>
                 <span className="type">企画、採用</span>
@@ -173,9 +173,9 @@ export default class Baseconnecct extends React.Component {
 
               <Card>
                   <ThumbnailWrapper>
-                    <LazyLoad>
+                    
                       <Thumbnail src="/static/image/work/baseconnect-dashboard.jpg"/>
-                      </LazyLoad>
+                      
                   </ThumbnailWrapper>
                 <p className="title">Dashboard</p>
                 <span className="type">ブランディング</span>

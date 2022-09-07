@@ -96,9 +96,9 @@ const Recommend = (props) => {
             <Link href="/baseconnect/baseconnectList">
               <Card left>
                 <ThumbnailWrapper>
-                  <LazyLoad>
+                  
                     <Thumbnail src="/static/image/work/baseconnect-list.jpg"/>
-                  </LazyLoad>
+                  
                 </ThumbnailWrapper>
                 <p className="title">Baseconnect LIST</p>
                 <p className="type">UI/UXデザイン、コーディング</p>
@@ -107,9 +107,9 @@ const Recommend = (props) => {
             <Link href="/baseconnect/baseconnectDashboard">
               <Card right>
                 <ThumbnailWrapper>
-                  <LazyLoad>
+                  
                     <Thumbnail src="/static/image/work/baseconnect-dashboard.jpg"/>
-                  </LazyLoad>
+                  
                 </ThumbnailWrapper>
                 <p className="title">Dashboard</p>
                 <p className="type">ブランディング</p>
@@ -123,9 +123,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectBootcamp">
             <Card left>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-bootcamp.png"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">DesignBootcamp</p>
               <p className="type">企画、採用</p>
@@ -134,9 +134,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectDashboard">
             <Card right>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-dashboard.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Dashboard</p>
               <p className="type">ブランディング</p>
@@ -150,9 +150,9 @@ const Recommend = (props) => {
           <Link href="/personalWorks/hotpepperBeauty">
             <Card left>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/personalWork_hotpepperBeauty2.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Hotpepper Beauty Redesign</p>
               <p className="type">リデザインチャレンジ</p>
@@ -161,9 +161,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectDashboard">
             <Card right>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-dashboard.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Dashboard</p>
               <p className="type">ブランディング</p>
@@ -177,9 +177,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectDashboard">
             <Card right>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-dashboard.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Dashboard</p>
               <p className="type">ブランディング</p>
@@ -188,9 +188,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectList">
             <Card right>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-list.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Baseconnect LIST</p>
               <p className="type">UI/UXデザイン、コーディング</p>
@@ -204,9 +204,9 @@ const Recommend = (props) => {
           <Link href="/baseconnect/baseconnectList">
             <Card left>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/baseconnect-list.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Baseconnect LIST</p>
               <p className="type">UI/UXデザイン、コーディング</p>
@@ -215,9 +215,9 @@ const Recommend = (props) => {
           <Link href="/personalWorks/hotpepperBeauty">
             <Card right>
               <ThumbnailWrapper>
-                <LazyLoad>
+                
                   <Thumbnail src="/static/image/work/personalWork_hotpepperBeauty2.jpg"/>
-                </LazyLoad>
+                
               </ThumbnailWrapper>
               <p className="title">Hotpepper Beauty Redesign</p>
               <p className="type">リデザインチャレンジ</p>

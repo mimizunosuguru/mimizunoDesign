@@ -14,7 +14,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "lottie-react-web": "^2.1.4",
-    "next": "^7.0.2",
+    "next": "^12.2.5",
     "react": "^16.7.0",
     "react-burger-menu": "^2.6.10",
     "react-dom": "^16.7.0",

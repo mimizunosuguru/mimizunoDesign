@@ -24,6 +24,7 @@ const Head = styled.header `
 
   //ホーム   
   .header__home {
+    font-family: 'Avenir';
     position: fixed;
     top: 36px;
     left: 30px;

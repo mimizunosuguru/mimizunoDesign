@@ -460,9 +460,9 @@ export default class About extends React.Component {
                 <h3>About</h3>
               </li>
               <li className="content">
-                <p>1994年生まれ。学生時代は自分が本当に情熱を持てるものを探す中、デザインと出会う。デザインの問題解決の視点に惹かれ、2017年に大学を休学し、ベトナムの日系ITスタートアップにてデザイナーのインターンとしてメンターの元に弟子入りの後、現在は京都に拠点を置くBaseconnect株式会社にてUI/UXデザイナーとして活動中。</p>
+                <p>学生時代は自分が本当に情熱を持てるものを探す中、2017年に大学を休学し、ベトナムの日系ITスタートアップにてメンターの元にデザイナーとして弟子入りの後、京都のスタートアップにて法人営業向け企業情報データベースを提供するSassプロダクトのプロダクトデザインに2年従事。</p>
 
-                <p>日本最大級のUXカンファレンスを毎年開催するUX DAYS TOKYOにスタッフとして約1年間所属。UXに関するブログ記事の執筆と、ワークショップ、勉強会をスタッフで定期的に開催し、デザインを行う上での視点を学んだ。</p>
+                <p>同時に、日本最大級のUXカンファレンスを開催するUX DAYS TOKYOにスタッフとして約1年間所属。UXに関するブログ記事の執筆と、ワークショップ、勉強会をスタッフで定期的に開催し、プロダクトの価値を引き出すデザインの視点を学んだ。</p>
               </li>
             </Card>
             {/* Biography */}
@@ -470,14 +470,19 @@ export default class About extends React.Component {
               <li className="content">
                 <Biography>
                   <li className="bio__listItem">
+                    <div className="item--title"><a href="https://ds.yahoo.co.jp/" target="_blank">Yahoo! Japan</a></div>
+                    <div className="item--position">Degital Product Designer</div>
+                    <div className="item--place">京都 / 2017 - 2019</div>
+                  </li>
+                  <li className="bio__listItem">
                     <div className="item--title"><a href="http://company.baseconnect.in/" target="_blank">Baseconnect</a></div>
-                    <div className="item--position">UI/UX Designer Intern</div>
-                    <div className="item--place">京都 / 2017 - 2019（現在</div>
+                    <div className="item--position">UI/UX Designer</div>
+                    <div className="item--place">京都 / 2017 - 2019</div>
                   </li>
                   <li className="bio__listItem flex">
                     <div className="item--title"><a href="https://uxdaystokyo.com/" target="_blank">UX Days Tokyo</a></div>
                     <div className="item--position">Stuff</div>
-                    <div className="item--place">大阪&東京 / 2017 - 2018</div>
+                    <div className="item--place">大阪 & 東京 / 2017 - 2018</div>
                   </li>
                   <li className="bio__listItem flex">
                     <div className="item--title"><a href="https://sun-asterisk.com/" target="_blank">Sun*</a></div>
@@ -492,7 +497,7 @@ export default class About extends React.Component {
                   <li className="bio__listItem flex">
                     <div className="item--title"><a href="https://www.doshisha.ac.jp/" target="_blank">同志社大学</a></div>
                     <div className="item--position">経済学部/経済学科</div>
-                    <div className="item--place">京都 / 2014 - 2020 (予定</div>
+                    <div className="item--place">京都 / 2014 - 2020</div>
                   </li>
                 </Biography>
               </li>

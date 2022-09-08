@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     background: #fff;
-    font-family: 'Avenir', "Yugothic", Noto Sans JP,serif;
+    font-family: 'Avenir', 'Yugothic', 'Hiragino Sans'  'Noto Sans JP';
   }
 
   * {

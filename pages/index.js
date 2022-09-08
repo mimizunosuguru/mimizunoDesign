@@ -34,6 +34,7 @@ const Top = styled.div`
   align-items: center;
   
   p {
+    font-family: 'Avenir';
     font-size: 40px;
     font-weight: bold;
     color: #999999;

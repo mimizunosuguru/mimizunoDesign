@@ -226,11 +226,11 @@ export default class LP extends React.Component {
 
             <Content>
               <h3>アウトプット</h3>
-              <p>ランディングページのリニューアルにあたり、デザインを元にHTML/CSS/jQueryでのコーディングを担当しました。一部デザインの追加も担当しました。</p>
-              <h4>担当したコーディング</h4>
+              <p>ランディングページのリニューアルにあたり、デザインからマークアップ（HTML/CSS/jQuery）まで担当しました。</p>
               <Image>
                 <img src="/static/image/work/lp/output1.png" alt=""/>
               </Image>
+              {/* 
               <h4>担当したデザイン</h4>
               <Image>
                 <img src="/static/image/work/lp/output2.png" alt=""/>
@@ -257,6 +257,7 @@ export default class LP extends React.Component {
               <Image>
                 <img src="/static/image/work/lp/lp-capture4.png" alt=""/>
               </Image>
+              */} 
             </Content>
           </Section>
         <ArticleRecommend page={this.state.page}/>

@@ -472,7 +472,7 @@ export default class About extends React.Component {
                   <li className="bio__listItem">
                     <div className="item--title"><a href="https://ds.yahoo.co.jp/" target="_blank">Yahoo! Japan</a></div>
                     <div className="item--position">Degital Product Designer</div>
-                    <div className="item--place">京都 / 2017 - 2019</div>
+                    <div className="item--place">東京 / 2020 - 2022</div>
                   </li>
                   <li className="bio__listItem">
                     <div className="item--title"><a href="http://company.baseconnect.in/" target="_blank">Baseconnect</a></div>
